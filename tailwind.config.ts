@@ -19,6 +19,17 @@ const config = {
     },
     extend: {
       colors: {
+        orange_400:"#FB923C",
+        orange_500:"#431407",
+
+        zinc_100: "#F4F4F5",
+        zinc_300: "#D4D4D8",
+        zinc_400: "#A1A1AA",
+        zinc_500: "#71717A",
+        zinc_800: "#27272A",
+        zinc_900: "#18181B",
+        zinc_950: "#09090B",
+
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
